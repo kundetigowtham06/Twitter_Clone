@@ -4,8 +4,8 @@ A beautiful clone of the Twitter (X) user interface, built using pure HTML and s
 
 ## 📸 Preview
 
-![Screenshot 1](./screenshots/screenshot1.png)
-![Screenshot 2](./screenshots/screenshot2.png)
+![Screenshot 1](./assets/Output1.png)
+![Screenshot 2](./assets/Output2.png)
 
 > Screenshots show the responsive dark-mode UI inspired by Twitter/X
 
